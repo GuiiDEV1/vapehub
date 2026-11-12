@@ -1,0 +1,8 @@
+build/
+*.exe
+*.dll
+*.jar
+*.log
+data/
+Thumbs.db
+desktop.ini
